@@ -1,0 +1,5 @@
+{ 
+  "model": "llama3:latest",
+  "prompt": "Crea una funcion no recursiva en clojure que calcule el factorial, contesta solo con el codigo sin comentarios adicionales",
+  "stream": false
+}

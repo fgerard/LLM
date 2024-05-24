@@ -1,0 +1,5 @@
+{ 
+  "model": "llama3:latest",
+  "prompt": "tengo un robot de telegram que sabe solo 3 comandos /reporte, /registro y /foto (muy importante que estos comandos siempre son en puras minusculas), los comandos reporte y registro debe de tener como segundo parametro emp y como tercer parametro el numero de empleado, el comando foto debe de tener como primer parametro camaras seguido de una lista de camaras con espacios, ojo es importante que los 3 comandos son com minusculas, ahora quiero que contestes solo con lo que se tendria que mandar al robot de telegram a la siguiente pregunta: dame una imagen de la camara FACE210",
+  "stream": false
+}
